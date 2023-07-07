@@ -1,0 +1,6 @@
+This is my first time using vim.
+First edit after saving.
+	I really need to learn this:
+	I can open, save, edit, insert and QUIT, oh, and move left and right one char ha.
+	It's a start:
+		You'll laugh at the above one day if you read this again!
